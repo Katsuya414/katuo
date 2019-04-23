@@ -1,18 +1,11 @@
 #テーマの設定
 theme : black
 
-
-#ロゴアイコンの設定
-#logo : shima.jpg
-
-
 #フットノートの設定
-footnote : @katu7414
-
+footnote : "© 勝男 (@katu7414)"
 
 #スライドのページ数表示の設定
 slide-number: true
 
-#トランジションの設定
-transition : fade
-
+#ページ遷移アニメーション (noneが安全？)
+transition: conve
