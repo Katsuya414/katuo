@@ -10,6 +10,10 @@
 
 ---
 
+![current](shima.jpg)
+
+---
+
 # 技術領域
 - ネットワーク(cisco,VPP,FRR)
 - Batfish
