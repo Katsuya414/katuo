@@ -2,8 +2,8 @@
 @title[toppage]
 
 # 自己紹介
-[勝男](https://twitter.com/katu7414)
 
+[勝男](https://twitter.com/katu7414)
 
 ---
 # 所属
