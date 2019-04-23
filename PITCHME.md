@@ -46,8 +46,11 @@
 
 +++
 
-- ICTSC元学生運営委員
+- ICTSC7~8 学生運営委員
+自作した問題と解説→http://katu7414.hatenablog.com/entry/2017/09/06/194553
+自作した小説→http://katu7414.hatenablog.com/entry/2017/09/22/185728
 - ICTSC9優秀賞
+参加者として書いたブログ→http://katu7414.hatenablog.com/entry/2018/03/06/175106
 
 
 
