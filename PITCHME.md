@@ -1,7 +1,9 @@
+---?image=shima.jpg
+@title[toppage]
+
 # 自己紹介
 [勝男](https://twitter.com/katu7414)
 
-![goal](shima.jpg)
 
 ---
 # 所属
