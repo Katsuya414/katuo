@@ -46,6 +46,7 @@
 
 +++
 
+# ICTSC関係
 - ICTSC7~8 学生運営委員
 
 自作した問題と解説→http://katu7414.hatenablog.com/entry/2017/09/06/194553
@@ -55,6 +56,26 @@
 - ICTSC9優秀賞
 
 参加者として書いたブログ→http://katu7414.hatenablog.com/entry/2018/03/06/175106
+
++++
+
+#その他
+- MBSハッカソン　企業賞受賞
+
+https://www.mbs.jp/hackathon/
+
+- OITLT主催者
+
+http://katu7414.hatenablog.com/entry/2017/10/09/181702
+
+---
+# 趣味
+- 釣り
+- 旅行
+- FPS
+
+
+
 
 
 
