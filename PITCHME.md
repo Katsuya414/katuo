@@ -1,6 +1,14 @@
 # 自己紹介
+---
+
+- NTTcom ネットワークサービス部　2年目
+- UNO VPNチーム
+- JANOG 40~ 4回目
+- 設計書書いたりconfig書く
+- SR,Batfish
 
 ---
+
 # 技術領域
 - ネットワーク
 - Batfish
