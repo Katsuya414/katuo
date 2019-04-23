@@ -9,7 +9,7 @@
 # 所属
 - NTTcom ネットワークサービス部　2年目
 - UNO VPNチーム
-- JANOG 40~ 4回目
+- JANOG 40~ 44はスタッフ
 - 設計書書いたりconfig書く
 - Ansibleで自動化中
 - SR,Batfish
