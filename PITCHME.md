@@ -52,7 +52,7 @@
 
 +++
 
-# ICTSC関係
+### ICTSC関係
 - ICTSC7~8 学生運営委員
 
 自作した問題と解説→http://katu7414.hatenablog.com/entry/2017/09/06/194553
