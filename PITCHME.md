@@ -91,7 +91,7 @@
 
 +++
 
-![pipeline](topo1.png)
+![pipeline](s_topo1.png)
 
 +++
 
