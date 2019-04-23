@@ -24,7 +24,7 @@
 
 +++
 
-- JANOG43 LT登壇
+- JANOG43 LT登壇(https://www.janog.gr.jp/meeting/janog43/program/lt1)
 - ネットワークコンテスト略してNETCON 主催者
 - https://connpass.com/event/101160/
 - https://camp-fire.jp/projects/view/134235
