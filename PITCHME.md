@@ -30,10 +30,10 @@
 
 +++
 
-- JANOG43 LT登壇(https://www.janog.gr.jp/meeting/janog43/program/lt1)
+- [JANOG43 LT登壇](https://www.janog.gr.jp/meeting/janog43/program/lt1)
 - ネットワークコンテスト略してNETCON 主催者
-- https://connpass.com/event/101160/
-- https://camp-fire.jp/projects/view/134235
+- [1回目](https://connpass.com/event/101160/)
+- [2回目クラウドファンディング]https://camp-fire.jp/projects/view/134235
 
 +++
 
@@ -66,13 +66,11 @@
 +++
 
 # その他
-- MBSハッカソン　企業賞受賞
-
-https://www.mbs.jp/hackathon/
+- MBSハッカソン　
+[企業賞受賞](https://www.mbs.jp/hackathon/)
 
 - OITLT主催者
-
-http://katu7414.hatenablog.com/entry/2017/10/09/181702
+[OITLT](http://katu7414.hatenablog.com/entry/2017/10/09/181702)
 
 ---
 
