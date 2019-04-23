@@ -74,7 +74,16 @@ https://www.mbs.jp/hackathon/
 
 http://katu7414.hatenablog.com/entry/2017/10/09/181702
 
+---
+
 # 社内活動
+
++++
+
+開発合宿
+
++++
+
 ![pipeline](IMG_20190227_161811_BURST001_COVER.jpg)
 
 
