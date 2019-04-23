@@ -1,0 +1,14 @@
+#テーマの設定
+theme : sky
+
+
+#ロゴアイコンの設定
+logo : shima.jpg
+
+
+#フットノートの設定
+footnote : @katu7414
+
+
+#スライドのページ数表示の設定
+slide-number: true
