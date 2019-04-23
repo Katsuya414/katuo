@@ -40,7 +40,7 @@
 - https://supporterzcolab.com/event/459/
 - https://supporterzcolab.com/event/417/
 
-+++
+---
 
 # 学生時代の時に出ていた大会・実績等
 
