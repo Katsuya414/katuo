@@ -59,7 +59,7 @@
 
 +++
 
-#その他
+# その他
 - MBSハッカソン　企業賞受賞
 
 https://www.mbs.jp/hackathon/
