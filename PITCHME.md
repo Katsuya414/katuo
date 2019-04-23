@@ -9,8 +9,7 @@
 - SR,Batfish
 
 ---
-
-![current](shima.jpg)
+![goal](shima.jpg)
 
 ---
 
