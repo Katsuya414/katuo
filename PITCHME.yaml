@@ -1,5 +1,5 @@
 #テーマの設定
-theme : MOON
+theme : black
 
 #フットノートの設定
 footnote : "© 勝男 (@katu7414)"
@@ -8,4 +8,4 @@ footnote : "© 勝男 (@katu7414)"
 slide-number: true
 
 #ページ遷移アニメーション (noneが安全？)
-transition: conve
+transition: fade
