@@ -1,5 +1,4 @@
 ---?image=shima.jpg
-
 @title[toppage]
 
 # 自己紹介
