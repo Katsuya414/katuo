@@ -1,15 +1,16 @@
 # 自己紹介
----
 [勝男](https://twitter.com/katu7414)
+
+![goal](shima.jpg)
+
+---
+# 所属
 - NTTcom ネットワークサービス部　2年目
 - UNO VPNチーム
 - JANOG 40~ 4回目
 - 設計書書いたりconfig書く
 - Ansibleで自動化中
 - SR,Batfish
-
----
-![goal](shima.jpg)
 
 ---
 
