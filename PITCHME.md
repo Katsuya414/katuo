@@ -1,6 +1,6 @@
 # 自己紹介
 ---
-
+[勝男](https://twitter.com/katu7414)
 - NTTcom ネットワークサービス部　2年目
 - UNO VPNチーム
 - JANOG 40~ 4回目
