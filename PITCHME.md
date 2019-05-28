@@ -122,7 +122,7 @@
 
 ---
 
-![pipeline](katuo1.png)
+![pipeline](katuo8.png)
 
 ---
 
