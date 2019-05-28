@@ -122,7 +122,7 @@
 
 ---
 
-![pipeline](s2019-05-28 15.19.54.png)
+![pipeline](katuo.png)
 
 ---
 
