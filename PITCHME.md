@@ -122,14 +122,14 @@
 
 ---
 
-![pipeline](katuo8.png)
+![pipeline](katuo1.png)
 
 ---
 
 ![pipeline](katuo9.png)
 ---
 
-![pipeline](katuo10.png)
+![pipeline](katuo2.png)
 
 ---
 
@@ -137,11 +137,11 @@
 
 ---
 
-![pipeline](katuo12.png)
+![pipeline](katuo4.png)
 
 ---
 
-![pipeline](katuo13.png)
+![pipeline](katuo5.png)
 
 ---
 
@@ -149,6 +149,6 @@
 
 ---
 
-![pipeline](katuo15.png)
+![pipeline](katuo7.png)
 
 
