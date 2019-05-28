@@ -122,18 +122,33 @@
 
 ---
 
+![pipeline](katuo1.png)
+
+---
+
 ![pipeline](katuo.png)
+---
+
+![pipeline](katuo2.png)
 
 ---
 
-![pipeline](s_ 2019-05-28 15.19.49.png)
+![pipeline](katuo3.png)
 
 ---
 
-![pipeline](s_ 2019-05-28 15.20.03.png)
+![pipeline](katuo4.png)
 
 ---
 
-![pipeline](s_ 2019-05-28 15.20.29.png)
+![pipeline](katuo5.png)
+
+---
+
+![pipeline](katuo6.png)
+
+---
+
+![pipeline](katuo7.png)
 
 ---
